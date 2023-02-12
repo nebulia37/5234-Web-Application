@@ -1,0 +1,23 @@
+.text {
+    padding: 20px;
+    font-size: x-large;
+}
+
+
+.Form {
+    padding: 20px;
+    display: block;
+    font-size: x-large;
+    margin-right: 300px;
+    margin-left: 0px;
+    line-height: 30px;
+    margin-bottom: 30px;
+    opacity: .95;
+}
+
+.FormText {
+    padding:20px;
+    margin-left: 40px;
+    margin-right:300px;
+
+}

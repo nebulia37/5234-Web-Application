@@ -1,0 +1,4 @@
+{
+  "port": 9002,
+  "shipment_queue": "amqp://guest:guest@localhost:5672/"
+}

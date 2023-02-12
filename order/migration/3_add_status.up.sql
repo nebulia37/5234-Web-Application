@@ -1,0 +1,2 @@
+ALTER TABLE orders
+ADD order_status VARCHAR(32) DEFAULT 'NEW';

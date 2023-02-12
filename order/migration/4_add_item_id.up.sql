@@ -1,0 +1,2 @@
+ALTER TABLE orders
+ADD item_id INT DEFAULT 0;

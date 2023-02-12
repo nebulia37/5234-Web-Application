@@ -1,0 +1,11 @@
+{
+  "port": 9001,
+  "database": {
+    "address": "127.0.0.1:3306",
+    "user": "replace_with_your_db_username",
+    "password": "replace_with_your_db_password",
+    "name": "order_management"
+  },
+  "inventory_api": "http://localhost:9000",
+  "shipment_queue": "amqp://guest:guest@localhost:5672/"
+}
